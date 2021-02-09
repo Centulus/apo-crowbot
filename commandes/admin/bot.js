@@ -22,5 +22,5 @@ module.exports.help = {
     name: "bot",
     aliases: ['botinfo','abonnement'],
     category: 'Administration',
-    description: "Obtenez les informations de votre abonnement OrumaaBot",
+    description: "Obtenez les informations de votre abonnement ApoBot",
   };
