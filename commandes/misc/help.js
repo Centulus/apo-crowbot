@@ -66,7 +66,7 @@ var embed5 = new MessageEmbed()
 .addField("`la`", `[Alias:](http://apobot) \`listeadmin\` \n - Liste de toutes les personnes ayant la permissions administrateur sur le serveur`)
 .addField("`lrm`", `[Alias:](http://apobot) \`listerolemembers\` \n - Obtenez la liste de personne dans un rôle`)
 .addField("`help`", `[Alias:](http://apobot) \`aide\` \n - Affiche la liste des commandes`)
-.setFooter(`Apo Bot • Version: ${config.bot.version} • ⚠️ Ceci est une pre-release, cette version n'est pas stable`)
+.setFooter(`🌙~Kokushibo~🌙 • Version: ${config.bot.version} •`)
 message.channel.send(embed5)
 };
 
