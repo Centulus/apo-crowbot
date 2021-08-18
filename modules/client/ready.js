@@ -9,7 +9,7 @@ console.log(`[BOTS]`.red + ` Informations du bot ` + `${client.user.username}`.r
 // -- Définir les guildes
 
 let str_content = { 
-    prefix: '.',
+    prefix: '+',
     color: "#ff0000",
     giveaway: {
         duree: "360000",
